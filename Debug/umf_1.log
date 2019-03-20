@@ -1,0 +1,15 @@
+﻿  Matrix.cpp
+c:\users\таня\source\repos\umf_1\umf_1\matrix.cpp(37): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\таня\source\repos\umf_1\umf_1\matrix.cpp(41): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\таня\source\repos\umf_1\umf_1\matrix.cpp(45): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\таня\source\repos\umf_1\umf_1\matrix.cpp(49): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\таня\source\repos\umf_1\umf_1\matrix.cpp(53): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\таня\source\repos\umf_1\umf_1\matrix.cpp(57): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\таня\source\repos\umf_1\umf_1\matrix.cpp(61): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\таня\source\repos\umf_1\umf_1\matrix.cpp(65): warning C4018: <: несоответствие типов со знаком и без знака
+  Model.cpp
+  main.cpp
+c:\users\таня\source\repos\umf_1\umf_1\main.cpp(4): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Создание кода...
+c:\users\таня\source\repos\umf_1\umf_1\model.cpp(27): warning C4715: Matrix::First_Grad: значение возвращается не при всех путях выполнения
+  umf_1.vcxproj -> C:\Users\Таня\source\repos\umf_1\Debug\umf_1.exe
